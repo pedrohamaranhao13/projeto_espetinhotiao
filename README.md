@@ -15,4 +15,4 @@ Antes de executar o projeto, certifique-se de que você tenha instalado os segui
 ## Como utilizar
 - Crie uma base de dados.
 - Dentro do projeto existe um pacote SQL, com o documento script.sql. Copie e cole para rodar o script no banco criado.
- 
+- No pacote factories existe a classe ConnectionFactory lá você deve alterar os parâmetros de acordo com suas configurações do banco; 
