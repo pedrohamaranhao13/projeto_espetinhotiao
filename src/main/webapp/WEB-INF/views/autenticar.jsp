@@ -26,7 +26,7 @@
 									id="email" 
 									name="email"
 									class="form-control"
-									required/>
+									placeholder="Digite seu e-mail aqui"/>
 						</div>
 						<div class="mb-3">
 							<label for="password" class="form-label">Senha</label> 
@@ -35,7 +35,7 @@
 									 id="senha" 
 									 name="senha"
 									class="form-control"
-									required/>
+									placeholder="Digite sua senha aqui"/>
 						</div>
 						<div class="mb-3">
 							<a href="recuperar-senha" class="text-decoration-none forgot-password">
