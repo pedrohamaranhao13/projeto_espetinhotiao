@@ -141,7 +141,7 @@
 				<li>
 					<hr class="dropdown-divider">
 				</li>
-				<li><a class="dropdown-item" href="/espetinho_tiao/logout">Sair do sistema</a></li>
+				<li><a class="dropdown-item" href="/espetinho_tiao/logout"  onclick="return confirm('Deseja realmente sair do sistema?')">Sair do sistema</a></li>
 			</ul>
 		</div>
 	</div>
